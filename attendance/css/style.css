@@ -1,0 +1,12 @@
+body {
+    background-color: lightgray;
+    text-align: center;
+}
+
+img {
+    max-width: 250px;
+    border: blue 8px solid;
+    background-color: darkgray;
+    padding: 30px;
+    margin: 15px;
+}
